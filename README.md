@@ -302,7 +302,7 @@ Title: A Paper 01,By: Custodians
 
 Stay up to date with A Paper .More “A Papers” to be released to keep the community up to date 
 
-<h3>The Array is powered by decentralized democraticand sovereign network<h3><h6> 
+<h3>The Array is powered by decentralized democratic and sovereign network<h3><h6> 
 
 <h6>
 
