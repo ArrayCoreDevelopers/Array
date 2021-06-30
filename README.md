@@ -7,6 +7,15 @@ The Array runs on a decentralized p2p network with no centralized point of failu
 <h1>The
 Array<h1>
 
+ [Website](https://2array.com/)
+ 
+ [YouTube Channel](https://www.youtube.com/channel/UCIsbZxpBWhcOyr3XYBqEyrA)
+ 
+ [Array Lobby Preview](https://youtu.be/IfhfdI9WKc4)
+ 
+ [Discord](https://discord.gg/mprmxPqCgq)
+ 
+ [Explorer](http://45.93.136.188:3001/)
 
 <h6>Consensus reality is that which is generally agreed to be reality, based on a consensus view
 
