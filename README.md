@@ -1,9 +1,9 @@
 # Array
 
-<h1>A value system that can traverse your digital life to your physical life effortlessly.
+<h1>A value system that can traverse your digital life to your physical effortlessly.
 <h1>
 
-
+![](https://github.com/ArrayCoreDevelopers/Array/blob/main/visual%20representation-of-UNITS-%20-%20.gif)
  
  
  [Website](https://2array.com/)
